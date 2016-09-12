@@ -17,5 +17,5 @@ class ProgrammingLanguage:
 
     def is_dynamic(self):
         if self.typing == "Dynamic":
-            self.dynamic = True
+            print("is dynamic")
 
